@@ -20,8 +20,6 @@ The data set contains the following diseases:
 - Squamous cell carcinoma
 - Vascular lesion
 
-NOTE: You don't have to use any pre-trained model using Transfer learning. All the model building process should be based on a custom model.
-
 **Project Pipeline**
 
 Data Reading/Data Understanding → Defining the path for train and test images 
